@@ -23,5 +23,6 @@ I have many interests and things im passionate about both academically and perso
 
 ## Websites I Recommend
 
-[Maxroll](https://maxroll.gg) Maxroll is a site for gamers who play a lot of _Action Role-Playing Games_. I use it to apply some ideas from the site into my own characters and how to build them. It is backed by content creators who know the in and outs of the games they make guides for, and can really teach you a lot about the game you are playing.
-[CNet](https://www.cnet.com/) CNet offers a lot of tech news, reviews, and guides. Its a good source for things related to _consumer tech_ and gives a good idea if you should purchase something or not.
+[Maxroll](https://maxroll.gg): Maxroll is a site for gamers who play a lot of _Action Role-Playing Games_. I use it to apply some ideas from the site into my own characters and how to build them. It is backed by content creators who know the in and outs of the games they make guides for, and can really teach you a lot about the game you are playing.
+
+[CNet](https://www.cnet.com/): CNet offers a lot of tech news, reviews, and guides. Its a good source for things related to _consumer tech_ and gives a good idea if you should purchase something or not.
